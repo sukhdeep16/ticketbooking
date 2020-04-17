@@ -27,6 +27,10 @@ public class SearchMovie extends JFrame {
 	private JTextField starttime_field;
 	private JTextField endtime_field;
 	private JTextField auditorium_field;
+	
+	public void setUp(){
+		int a=10;	
+	}
 
 	/**
 	 * Create the panel.
