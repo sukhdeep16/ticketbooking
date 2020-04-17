@@ -28,7 +28,7 @@ public class SearchMovie extends JFrame {
 	private JTextField endtime_field;
 	private JTextField auditorium_field;
 	
-	public void setUp(){
+	public void addedATGTHUB(){
 		int a=10;	
 	}
 
